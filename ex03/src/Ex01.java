@@ -1,4 +1,4 @@
-public class ex01 {
+public class Ex01 {
 
     public void doA() {
 
@@ -10,13 +10,14 @@ public class ex01 {
         }
 
     }
+
     public void doB() {
         int num = 10;
         switch (num) {
-            case 10 :
+            case 10:
                 System.out.println("10입니다");
                 break;
-            default :
+            default:
                 System.out.println("기본");
         }
     }

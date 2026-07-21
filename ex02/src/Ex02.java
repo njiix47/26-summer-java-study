@@ -1,4 +1,4 @@
-public class ex02 {
+public class Ex02 {
 
     static void main(String[] args) {
         String input = IO.readln(); // input 받기
