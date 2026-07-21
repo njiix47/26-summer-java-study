@@ -3,15 +3,16 @@ public class Ex02 {
         int num = 1;
         while (num < 11) {
             if (num == 5) {
-                num ++;
+                num++;
                 continue;
-            };
+            }
+
             if (num > 8) {
                 break;
             }
 
             System.out.print(num + " ");
-            num ++;
+            num++;
         }
     }
 }
